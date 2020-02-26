@@ -8,8 +8,7 @@
       5 : Data Preparation.
       6 : Load the data to Data Warehouse.
 
-### Check this out.
-      https://github.com/koro143/DataScience/blob/master/Top%20100%20Movies%20from%20Apple%20Store.ipynb
+##### Check this out. https://github.com/koro143/DataScience/blob/master/Top%20100%20Movies%20from%20Apple%20Store.ipynb
 
 ### source from https://rss.itunes.apple.com 
       I hope you enjoy this.
