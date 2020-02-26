@@ -1,8 +1,13 @@
-# Data Data
+# Top 100 Movies from Apple Store.
 
-I wish you will enjoy with this.
-If you wanna know.
-Go Check This Out.
+### How to made a simple Data Pipeline.
+      Step 1 : Set a project.
+      Step 2 : Collect data from Data Source.
+      Step 3 : Ingest Raw data to Data Lake.
+      Step 4 : Retrieving data from Data Lake.
+      Step 5 : Data Preparation.
+      Step 6 : Load the data to Data Warehouse.
 
-And this for everyone who interested in Data Science. 
-Thank you.
+### source from https://rss.itunes.apple.com 
+    I hope you enjoy this.
+    Thank you.
